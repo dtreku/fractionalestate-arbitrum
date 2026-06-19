@@ -1,0 +1,7 @@
+[
+  {"inputs":[],"stateMutability":"nonpayable","type":"constructor"},
+  {"inputs":[{"internalType":"address","name":"_investor","type":"address"},{"internalType":"bool","name":"_isAccredited","type":"bool"},{"internalType":"string","name":"_jurisdiction","type":"string"}],"name":"verifyInvestor","outputs":[],"stateMutability":"nonpayable","type":"function"},
+  {"inputs":[{"internalType":"address","name":"_investor","type":"address"}],"name":"isVerified","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function"},
+  {"inputs":[{"internalType":"address","name":"_investor","type":"address"}],"name":"isAccredited","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function"},
+  {"inputs":[{"internalType":"address","name":"_investor","type":"address"}],"name":"getInvestor","outputs":[{"components":[{"internalType":"bool","name":"isVerified","type":"bool"},{"internalType":"bool","name":"isAccredited","type":"bool"},{"internalType":"uint256","name":"verifiedAt","type":"uint256"},{"internalType":"uint256","name":"expiresAt","type":"uint256"},{"internalType":"string","name":"jurisdiction","type":"string"}],"internalType":"struct InvestorRegistry.Investor","name":"","type":"tuple"}],"stateMutability":"view","type":"function"}
+]
