@@ -570,4 +570,4 @@ WPI Business School
 
 ---
 
-*MIS 2300/510 | Business Applications of Blockchain Technology | WPI | Spring 2026*
+*Business Applications of Blockchain Technology*
