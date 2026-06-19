@@ -6,7 +6,7 @@
 [![IPFS](https://img.shields.io/badge/IPFS-Pinata-65C2CB?style=for-the-badge)](https://pinata.cloud)
 [![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=for-the-badge)](https://supabase.com)
 
-> MIS 2300/510: Business Applications of Blockchain | WPI Business School | Spring 2026
+> Business Applications of Blockchain  
 
 ---
 
