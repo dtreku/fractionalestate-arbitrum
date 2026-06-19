@@ -566,8 +566,7 @@ fractionalestate-arbitrum/
 
 **Professor Daniel Treku**
 WPI Business School
-dtreku@wpi.edu
-Office Hours: Thursdays 1-2 PM
+
 
 ---
 
