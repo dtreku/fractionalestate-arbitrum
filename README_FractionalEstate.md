@@ -567,7 +567,7 @@ fractionalestate-arbitrum/
 
 **Professor Daniel Treku**
 WPI Business School
-dtreku@wpi.edu
+
 
 
 ---
