@@ -290,6 +290,7 @@ All commands run in the VS Code terminal.
 
 ```bash
 cd blockchain
+npm install @openzeppelin/contracts@5.0.2
 npx hardhat compile
 ```
 
