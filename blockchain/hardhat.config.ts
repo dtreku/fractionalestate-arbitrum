@@ -21,11 +21,10 @@ const config: HardhatUserConfig = {
     arbitrumSepolia: { url: ARBITRUM_SEPOLIA_RPC_URL, accounts: [PRIVATE_KEY], chainId: 421614 },
   },
   etherscan: {
-    apiKey: { arbitrumSepolia: ARBISCAN_API_KEY },
-    customChains: [{
-      network: "arbitrumSepolia", chainId: 421614,
-      urls: { apiURL: "https://api-sepolia.arbiscan.io/api", browserURL: "https://sepolia.arbiscan.io" },
-    }],
+    apiKey: ARBISCAN_API_KEY,
+  },
+  sourcify: {
+    enabled: false,
   },
   gasReporter: { enabled: process.env.REPORT_GAS === "true", currency: "USD" },
 };
